@@ -1,0 +1,15 @@
+body {
+  background-color: aquamarine;
+  text-align: center;
+}
+.pages-links {
+  display: block;
+  color: rgb(18, 252, 88);
+  margin-top: 10px;
+}
+a {
+  margin: 10px;
+}
+.mail-link {
+  margin: 0px;
+}
